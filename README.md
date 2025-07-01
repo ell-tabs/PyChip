@@ -1,5 +1,5 @@
 # PyChip
-A Chip-8 emulator written in python, cython, and swift.
+A Chip-8 emulator for macos written in python, cython, and swift.
 
 Features
 ---
